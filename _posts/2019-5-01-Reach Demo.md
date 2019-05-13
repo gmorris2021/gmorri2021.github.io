@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 4 and Reach Demo!
+title: Week 5 and Reach Demo!
 ---
 
 Welcome back again everyone! It has been a long week with almost no sleep, but we finished!
@@ -20,4 +20,12 @@ Once this was all done, we hooked this up to the mbed in order to measure pressu
 
 ![_config.yml]({{ site.baseurl }}/images/Reach2.png)
 
-This grid had four rows and four columns, in order to be more accurate in determining the position on the pillow, as well as be larger in order to cover more space. With this done, we moved onto working on integrating the smaller pillows.
+This grid had four rows and four columns, in order to be more accurate in determining the position on the pillow, as well as be larger in order to cover more space. With this done, we moved onto working on integrating the smaller pillows. This was done through using solenoids and the smaller pillows alongside our 3D printed parts. These can be seen below:
+
+![_config.yml]({{ site.baseurl }}/images/Reach4.png)
+
+These parts were created in order to put one tube in with air and two tubes out carrying the air. Meanwhile, for the actual pillow we put together four smaller pillows, alongside tubes into the four pillows. This can be seen below:
+
+![_config.yml]({{ site.baseurl }}/images/Reach3.png)
+
+Once this was done
