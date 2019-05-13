@@ -20,4 +20,9 @@ of measuring effectiveness would to be have clinicians conduct range of motion t
 timeframe.
 
 
+With all of this done, we finally finished the project! We hope you enjoyed our blog and here are some pictures of the final working product at public demo day!
 
+
+![_config.yml]({{ site.baseurl }}/images/Reach5.jpeg)
+![_config.yml]({{ site.baseurl }}/images/Reach6.jpeg)
+![_config.yml]({{ site.baseurl }}/images/Reach7.jpeg)
