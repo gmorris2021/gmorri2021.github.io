@@ -16,4 +16,8 @@ For the first goal, we realized that needed to use the sheets flat instead of fo
 
 ![_config.yml]({{ site.baseurl }}/images/Reach1.png)
 
-As can 
+Once this was all done, we hooked this up to the mbed in order to measure pressure. This was done as follows. The pressure sheets layed on top of one other create a voltage divider for each power column, so what we did was send power to one of the columns, measure the analog out at the three outputs (one for each row), we then sent power down the next column, repeated the process, and finally sent it down the last column and repeated the process. In doing so, using the fact that these were voltage dividers, we were able to traingulate the position of the pressure using math based on the analog values out. Once we got the prototype working, we moved on to a much bigger grid, that can be seen below.
+
+![_config.yml]({{ site.baseurl }}/images/Reach2.png)
+
+This grid had four rows and four columns, in order to be more accurate in determining the position on the pillow, as well as be larger in order to cover more space. With this done, we moved onto working on integrating the smaller pillows.
